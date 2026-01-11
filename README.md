@@ -21,13 +21,14 @@
 <br>
 <br>
  
+<!--
 # 📊 GitHub Stats:
  
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vmp3&theme=tokyonight&hide_border=false"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vmp3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
- 
+-->
  
 # 💻 Skills
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
