@@ -12,8 +12,9 @@
 
 - 👋 Hi, I'm @Vmp3
 - 💻 Passionate about software development.
-- 👨‍🎓 Currently studying Systems Analysis and Development at Senac-SC.
-- 🌟 Enthusiastic about fullstack development and constantly working to enhance my skills in Java, JavaScript, and React.
+- 👨‍🎓 Graduated in Systems Analysis and Development.
+- 🎓 Currently pursuing a postgraduate degree in Software Architecture.
+- 🌟 Enthusiastic about fullstack development and constantly working to enhance my skills in Golang, Java, and React.
 - 🚀 Focused on deepening my understanding of modern technologies and best practices in software engineering.
 - 📚 Always eager to learn and explore new tools and methodologies to build better and more efficient solutions.
  
@@ -29,6 +30,8 @@
  
  
 # 💻 Skills
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,6 +40,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
